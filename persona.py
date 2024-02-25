@@ -18,8 +18,7 @@ class persona:
         return f'Telefono: {self.telefono}'
     
     
-    
-    p = ("santiago","jimenez ferrer","1142914126","sant@gmail.com","311440094")
+p = ("santiago","jimenez ferrer","1142914126","sant@gmail.com","311440094")
 
 
 
