@@ -1,7 +1,7 @@
 
 volar  = {
-    "Aerolínea" : "volaris" ,
-    "Vuelo" : "AV789" ,
+    "Aerolínea" : "Avianca" ,
+    "Vuelo" : "AV3102" ,
     "Origen" : "CTG" ,
     "Destino" : "MDE" ,
     "Tipo_Maleta" : [ 'Cabina' , 'Mano' , 'Bodega' ]
