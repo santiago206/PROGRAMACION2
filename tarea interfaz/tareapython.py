@@ -7,12 +7,12 @@ ventana.geometry("700x400")
 ventana.title("PERSONALIZA EL TEXTO")
 ventana.configure(background="lightblue")
 
-path = Image.open("tecnar.png")
+path = Image.open("\\Users\\USUARIO\\Desktop\\tarea interfaz\\tecnar.png")
 icono = ImageTk.PhotoImage(path)
 ventana.iconphoto(True, icono)
 
 
-image = Image.open("hola.png")
+image = Image.open("\\Users\\USUARIO\\Desktop\\tarea interfaz\\hola.png")
 image = image.resize((200,200))
 
 image = ImageTk.PhotoImage(image)
