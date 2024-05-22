@@ -1,0 +1,25 @@
+{
+    "reservas": [
+        {
+            "cliente": "alfonso alfonso",
+            "cancha": "la bombonera",
+            "fecha": "5/1/24",
+            "hora": "9:00",
+            "horario": "Noche"
+        },
+        {
+            "cliente": "santiago jimenez",
+            "cancha": "el bernabeu",
+            "fecha": "5/15/24",
+            "hora": "7:00",
+            "horario": "Dia"
+        },
+        {
+            "cliente": "santiago jimenez",
+            "cancha": "campnou",
+            "fecha": "5/16/24",
+            "hora": "7:00",
+            "horario": "Noche"
+        }
+    ]
+}
