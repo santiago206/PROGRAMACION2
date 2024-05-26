@@ -1,0 +1,7 @@
+#################     FACTURA       ###############
+Nombre del cliente: santiago jimenez
+Nombre de la cancha: la bombonera
+Fecha: 5/22/24
+Hora: 7:00
+Horario: Noche
+Iva: 20

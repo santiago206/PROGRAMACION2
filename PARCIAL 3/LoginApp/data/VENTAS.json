@@ -1,0 +1,12 @@
+{
+    "ventas": [
+        {
+            "cliente": "adolfo ferrer",
+            "total de la venta": 1200000.0
+        },
+        {
+            "cliente": "adolfo ferrer",
+            "total de la venta": 1100000.0
+        }
+    ]
+}

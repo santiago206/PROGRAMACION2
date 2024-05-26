@@ -1,0 +1,9 @@
+#################     FACTURA       ###############
+Nombre del cliente: alfonso alfonso
+Nombre de la cancha: campnou
+Fecha: 5/21/24
+Hora: 6:00
+Horario: Noche
+Iva: 20
+Precio: 100000
+Total a Pagar: 120000.0

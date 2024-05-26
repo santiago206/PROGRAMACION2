@@ -1,0 +1,31 @@
+{
+    "facturas": [
+        {
+            "cliente": "alfonso alfonso",
+            "cancha": "el bernabeu",
+            "fecha": "5/26/24",
+            "hora": "7:00",
+            "horario": "Dia",
+            "iva": "10",
+            "precio": "10000"
+        },
+        {
+            "cliente": "santiago jimenez",
+            "cancha": "campnou",
+            "fecha": "5/15/24",
+            "hora": "8:00",
+            "horario": "Noche",
+            "iva": "10",
+            "precio": "100000"
+        },
+        {
+            "cliente": "adolfo ferrer",
+            "cancha": "la bombonera",
+            "fecha": "5/15/24",
+            "hora": "9:00",
+            "horario": "Noche",
+            "iva": "10",
+            "precio": "1000000"
+        }
+    ]
+}

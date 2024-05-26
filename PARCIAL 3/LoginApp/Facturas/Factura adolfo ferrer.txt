@@ -1,0 +1,9 @@
+#################     FACTURA       ###############
+Nombre del cliente: adolfo ferrer
+Nombre de la cancha: la bombonera
+Fecha: 5/15/24
+Hora: 9:00
+Horario: Noche
+Iva: 10
+Precio: 1000000
+Total a Pagar: 1100000.0
