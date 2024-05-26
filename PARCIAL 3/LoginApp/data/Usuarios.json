@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 12345678,
+            "name": "Santiago Jimenez Ferrer",
+            "username": "santiago",
+            "password": "123",
+            "email": "santiagojimenezferrer@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "123445",
+            "name": "san tiagoooo",
+            "username": "hh",
+            "password": "hh",
+            "email": "ddbefih4lkf4n",
+            "role": "Vendedor"
+        },
+        {
+            "id": "123456789",
+            "name": "johana gonzales ocampo",
+            "username": "johana20",
+            "password": "123",
+            "email": "johanagonzales@gmail.com",
+            "role": "Administrador"
+        }
+    ]
+}
